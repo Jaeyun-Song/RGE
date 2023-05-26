@@ -1,2 +1,2 @@
 # RGE
-The official code for RGE
+The code will be released soon
