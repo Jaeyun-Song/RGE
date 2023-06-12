@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Official Pytorch implementation of ICML 2023 paper "RGE: A Repulsive Graph Rectification for Node Classification"
+Official JAX implementation of ICML 2023 paper "RGE: A Repulsive Graph Rectification for Node Classification"
 
 ![Overview Figure](figures/rge_concept.png)
 
