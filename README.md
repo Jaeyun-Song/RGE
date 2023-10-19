@@ -1,5 +1,7 @@
 # RGE: A Repulsive Graph Rectification for Node Classification via Influence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10021247.svg)](https://doi.org/10.5281/zenodo.10021247)
+
 ## Introduction
 
 Official JAX implementation of ICML 2023 paper "RGE: A Repulsive Graph Rectification for Node Classification"
@@ -68,3 +70,7 @@ This code has been tested with
 * Jraph == 0.0.6.dev0
 * Pytorch == 1.13.0+cu117
 * Pytorch Geometric == 2.1.0
+
+## Acknowledgement
+This work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT)
+(No.2019-0-00075, Artificial Intelligence Graduate School Program(KAIST))
